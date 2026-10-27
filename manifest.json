@@ -1,6 +1,6 @@
 {
-  "name": "My Apps",
-  "short_name": "My Apps",
+  "name": "WIHOK ONE APP",
+  "short_name": "WHK ONE APP",
   "description": "รวมแอป Google Apps Script ไว้ในที่เดียว",
   "start_url": "./",
   "scope": "./",
